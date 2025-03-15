@@ -1,4 +1,4 @@
-# task_manager
+# task_manager / Gerenciador de tarefas
 ## Descrição  
 Este projeto é um aplicativo simples de gerenciamento de tarefas que permite adicionar, editar e excluir tarefas.
 ## Tecnologias Usadas
