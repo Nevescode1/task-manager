@@ -11,8 +11,20 @@ Este projeto é um aplicativo simples de gerenciamento de tarefas que permite ad
    ```bash
    git clone (https://github.com/Nevescode1/task-manager.git)
 
-### 5. **Como Usar**
-Exemplo de como usar o seu projeto, se aplicável.
+### 5. ##Como Usar
+
+### Passo 1: Iniciar o Aplicativo
+Após clonar o repositório e configurar o ambiente local conforme as instruções de instalação, abra o projeto no **Visual Studio** ou no editor de sua escolha.
+
+### Passo 2: Configurar o Banco de Dados
+O aplicativo utiliza um banco de dados **SQL Server** para armazenar as tarefas. Para configurar o banco de dados:
+
+1. Abra o arquivo `appsettings.json` e verifique a string de conexão:
+   ```json
+   "ConnectionStrings": {
+     "DefaultConnection": "Server=(localdb)\\mssqllocaldb;Database=TaskManager;Trusted_Connection=True;"
+   }
+
 ## Como Usar
 1. Abra o aplicativo e faça login.
 2. Adicione uma nova tarefa clicando em "Adicionar Tarefa".
