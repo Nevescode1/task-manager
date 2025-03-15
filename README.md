@@ -9,7 +9,7 @@ Este projeto é um aplicativo simples de gerenciamento de tarefas que permite ad
 ## Instalação
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone (https://github.com/Nevescode1/task-manager.git)
 
 ### 5. **Como Usar**
 Exemplo de como usar o seu projeto, se aplicável.
